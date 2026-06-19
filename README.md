@@ -34,7 +34,6 @@ SingleCell_github/
 │   ├── Run_1/                      # QC plots, UMAP, clustering outputs for Run 1
 │   ├── Run_2/                      # QC plots, UMAP, clustering outputs for Run 2
 │   └── Run_3/                      # QC plots, UMAP, clustering outputs for Run 3
-├── results/                        # Saved AnnData objects (.h5ad) per run
 ├── scripts/                        # Analysis notebooks
 ├── .gitignore
 └── README.md
